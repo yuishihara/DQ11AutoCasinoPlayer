@@ -1,2 +1,2 @@
 # DQ11AutoCasinoPlayer
-Auto casino roulette player for Dragon Quest 11
+Auto casino slot machine player for Dragon Quest 11
